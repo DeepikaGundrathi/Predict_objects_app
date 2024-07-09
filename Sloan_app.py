@@ -21,7 +21,7 @@ def set_background(image_url):
         unsafe_allow_html=True
     )
 
-background_image_url = "https://github.com/SriKumar1313/Sloan_app/raw/main/assets/pexels-minan1398-813269.jpg"
+background_image_url = "https://github.com/DeepikaGundrathi/Predict_objects_app/raw/main/assets/pexels-minan1398-813269.jpg"
 set_background(background_image_url)
 
 # Add welcome page with GLTF model
